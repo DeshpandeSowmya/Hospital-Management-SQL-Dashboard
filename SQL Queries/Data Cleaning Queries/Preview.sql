@@ -1,0 +1,11 @@
+SELECT COUNT(*) AS total_rows FROM patients;
+SELECT COUNT(*) AS total_rows FROM doctors;
+SELECT COUNT(*) AS total_rows FROM appointments;
+SELECT COUNT(*) AS total_rows FROM treatments;
+SELECT COUNT(*) AS total_rows FROM billing;
+SELECT * FROM patients LIMIT 5;
+SELECT * FROM patients;
+SELECT * FROM doctors LIMIT 5;
+SELECT * FROM appointments LIMIT 5;
+SELECT * FROM treatments LIMIT 5;
+SELECT * FROM billing LIMIT 5;

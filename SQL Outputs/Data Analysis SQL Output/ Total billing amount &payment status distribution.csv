@@ -1,0 +1,4 @@
+payment_status,count,total_amount
+Pending,69,184612.01
+Paid,64,173424.90
+Failed,67,193212.94
