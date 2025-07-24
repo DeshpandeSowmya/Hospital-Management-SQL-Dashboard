@@ -89,7 +89,12 @@ All tables follow a **normalized relational schema** with foreign key constraint
 - Most used insurance: **HealthIndia**
 - Wait time majority: **0–200 days**
 
-![Dashboard Preview](https://github.com/DeshpandeSowmya/hms-project/blob/main/assets/dashboard_preview.png)  
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/DeshpandeSowmya/Hospital-Management-SQL-Dashboard/blob/main/Dashboard%20Preview.png?raw=true)
+ 
 
 ---
 
